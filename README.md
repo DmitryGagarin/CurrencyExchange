@@ -19,31 +19,30 @@ Used Technologies: <br>
 
 Urls:
 
-8080 - cloud
+8080 - cloud<br>
 http://localhost:8080/microservice/dev OR qa
 
-8081 - microservice
+8081 - microservice<br>
 http://localhost:8081/limits
 
-8084 - exchange 
-http://localhost:8082/currency-exchange/from/AUD/to/INR
-http://localhost:8084/currency-exchange/from/AUD (-----)
-http://localhost:8084/currency-exchange/to/INR
-http://localhost:8084/currency-exchange-all
+8084 - exchange <br>
+http://localhost:8082/currency-exchange/from/AUD/to/INR <br>
+http://localhost:8084/currency-exchange/from/AUD (-----) <br>
+http://localhost:8084/currency-exchange/to/INR <br>
+http://localhost:8084/currency-exchange-all <br>
 
 
-8083 - conversion (?????)
+8083 - conversion (?????)<br>
 http://localhost:8083/currency_calculation_feign/from/USD/to/INR/quantity/100
 
-8761 - eureka
-http://localhost:8761
+8761 - eureka<br>
+http://localhost:8761<br>
 
-8765 - zuul
+8765 - zuul<br>
 
-3000 - front
-http://localhost:3000/currency
-http://localhost:3000/users
+3000 - front<br>
+http://localhost:3000/currency<br>
+http://localhost:3000/users<br>
 
-8200 - user 
-http://localhost:8200/user-service/all
->>>>>>> 821571a245652bbd61a8240f89ead1992023be82
+8200 - user <br>
+http://localhost:8200/user-service/all<br>
