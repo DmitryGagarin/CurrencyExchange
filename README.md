@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # microservice_try
-=======
 Currency Calculator App
 
 Project based on: <br>
