@@ -17,6 +17,9 @@ Used Technologies: <br>
 [-] React <br>
 [-] Rest API <br>
 
+![](https://gitflic.ru/project/gagarin1love/currencycalculatorspringreactpostgre/blob?file=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-09-25%20%D0%B2%2021.54.24.gif&branch=master$0)
+
+
 Urls:
 
 8080 - cloud<br>
