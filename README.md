@@ -3,7 +3,12 @@
 =======
 Currency Calculator App
 
-Except Currency Calculator I have a 
+Project based on: <br>
+https://www.javatpoint.com/creating-a-simple-microservice$0
+
+<br>
+
+Except Currency Calculator I have a table with registered users (trained work with db)
 
 Used Technologies: <br>
 [-] Spring Cloud <br>
