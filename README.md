@@ -2,7 +2,7 @@ Currency Calculator App
 
 Except Currency Calculator I have a 
 
-Used Technologies:
+Used Technologies: <br>
 [-] Spring Cloud <br>
 [-] Spring Boot <br>
 [-] Spring Data JPA <br>
