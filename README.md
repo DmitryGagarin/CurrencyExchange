@@ -3,13 +3,13 @@ Currency Calculator App
 Except Currency Calculator I have a 
 
 Used Technologies:
-[-] Spring Cloud
-[-] Spring Boot
-[-] Spring Data JPA
-[-] Postgre Database
-[-] Eurika
-[-] React
-[-] Rest API
+[-] Spring Cloud <br>
+[-] Spring Boot <br>
+[-] Spring Data JPA <br>
+[-] Postgre Database <br>
+[-] Eurika <br>
+[-] React <br>
+[-] Rest API <br>
 
 Urls:
 
